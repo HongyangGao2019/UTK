@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UTK/Resources/UTKUss/NiceButton01.uss?fileID=7433441132597879392&amp;guid=1d3fca8dc68edf7448d2bcb92271d5be&amp;type=3#NiceButton01" />
+    <engine:VisualElement name="nice-button01-parent" style="flex-grow: 1;">
+        <engine:Button text="Button" name="nice-button01" style="background-color: rgb(40, 105, 183); color: rgb(255, 255, 255); border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-left-color: rgb(0, 45, 62); border-right-color: rgb(0, 45, 62); border-top-color: rgb(0, 45, 62); border-bottom-color: rgb(0, 45, 62); font-size: 20px; text-shadow: 1.6px 0.9px 2px rgb(38, 38, 38);" />
+    </engine:VisualElement>
+</engine:UXML>

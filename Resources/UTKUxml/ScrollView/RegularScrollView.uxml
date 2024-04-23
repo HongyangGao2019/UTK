@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UTK/Resources/UTKUss/RegularScrollView.uss?fileID=7433441132597879392&amp;guid=6f3a1184578986a488aaf0460de3c1a0&amp;type=3#RegularScrollView" />
+    <engine:VisualElement name="regular-scroll-view-parent">
+        <engine:ScrollView name="regular-scroll-view" language-direction="Inherit" touch-scroll-type="Elastic" usage-hints="-1" style="flex-grow: 1;" />
+    </engine:VisualElement>
+</engine:UXML>

@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UTK/Resources/UTKUss/RegularToggle.uss?fileID=7433441132597879392&amp;guid=1bebaeb4983368e4da1a54f83cc4733d&amp;type=3#RegularToggle" />
+    <engine:VisualElement name="regular-toggle-parent" style="min-height: 30px; flex-grow: 1; min-width: 220px;">
+        <engine:Toggle value="true" name="regular-toggle" label="Togggle" />
+    </engine:VisualElement>
+</engine:UXML>

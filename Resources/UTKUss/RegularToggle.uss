@@ -1,0 +1,31 @@
+#regular-toggle-parent {
+}
+
+#regular-toggle {
+    flex-grow: 1;
+}
+
+#unity-checkmark {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+Label {
+    color: rgb(255, 255, 255);
+    -unity-text-align: middle-center;
+    -unity-text-outline-width: 1px;
+    text-shadow: 0.7px 2.2px 0 rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.52);
+    border-top-width: -3px;
+    border-right-width: -3px;
+    border-bottom-width: -3px;
+    border-left-width: 6px;
+    border-top-left-radius: 11px;
+    border-top-right-radius: 11px;
+    border-bottom-right-radius: 11px;
+    border-bottom-left-radius: 11px;
+    flex-grow: 1;
+    -unity-font-style: bold;
+}

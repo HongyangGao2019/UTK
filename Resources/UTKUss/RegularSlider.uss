@@ -1,0 +1,117 @@
+#unity-tracker {
+    background-color: rgb(14, 52, 84);
+    margin-top: -10px;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    border-bottom-left-radius: 14px;
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    min-width: 112px;
+    height: 20px;
+}
+
+#unity-drag-container {
+    align-self: center;
+    justify-content: center;
+}
+
+#unity-dragger {
+    background-color: rgb(226, 255, 0);
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    justify-content: center;
+}
+
+#unity-draggger-border {
+}
+
+#unity-text-field {
+    margin-left: 10px;
+    min-width: 71px;
+    border-top-width: 4px;
+    border-right-width: 4px;
+    border-bottom-width: 4px;
+    border-left-width: 4px;
+    max-height: 100px;
+    align-self: center;
+    align-content: center;
+    justify-content: center;
+}
+
+#unity-text-input {
+    background-color: rgba(86, 86, 86, 0.68);
+    color: rgb(213, 252, 255);
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    -unity-text-align: middle-left;
+}
+
+Label {
+    background-color: rgba(0, 0, 0, 0.38);
+    border-left-color: rgba(0, 0, 0, 0.85);
+    border-right-color: rgba(0, 0, 0, 0.85);
+    border-top-color: rgba(0, 0, 0, 0.85);
+    border-bottom-color: rgba(0, 0, 0, 0.85);
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    color: rgb(255, 255, 255);
+    margin-left: 3px;
+    padding-left: 3px;
+    overflow: hidden;
+    min-width: 70px;
+    align-self: center;
+    -unity-text-align: middle-center;
+    max-width: 200px;
+    margin-right: 5px;
+}
+
+TextElement {
+    -unity-text-align: middle-right;
+    -unity-text-outline-width: -9px;
+}
+
+#regular-slider-parent {
+    min-width: 308px;
+    flex-grow: 1;
+}

@@ -1,0 +1,9 @@
+#nice-button01:active {
+    transition-duration: 0.3s, 0.3s;
+    scale: 0.97 0.97;
+    transition-property: scale, opacity;
+    transition-delay: 0s, 0s;
+    opacity: 0.63;
+    transform-origin: bottom;
+    transition-timing-function: ease, ease;
+}

@@ -1,0 +1,9 @@
+#regular-button {
+    background-color: rgb(34, 34, 34);
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    -unity-text-outline-color: rgb(32, 32, 32);
+}

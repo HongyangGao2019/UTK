@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UTK/Resources/UTKUss/RegularSlider.uss?fileID=7433441132597879392&amp;guid=ceffb50388000dc40bb06aaee2985e64&amp;type=3#RegularSlider" />
+    <engine:VisualElement name="regular-slider-parent">
+        <engine:Slider label="Custom Slider" value="42" high-value="100" show-input-field="true" name="regular-slider" style="height: 24px; flex-shrink: 1; flex-grow: 1;" />
+    </engine:VisualElement>
+</engine:UXML>

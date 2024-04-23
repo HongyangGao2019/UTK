@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UTK/Resources/UTKUss/RegularButton.uss?fileID=7433441132597879392&amp;guid=912b9f655cc09d54e96bbba95ed81295&amp;type=3#RegularButton" />
+    <engine:VisualElement name="regular-button-parent">
+        <engine:Button text="Button" name="regular-button" />
+    </engine:VisualElement>
+</engine:UXML>
